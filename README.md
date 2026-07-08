@@ -15,7 +15,7 @@ Use these markers to track your progress:
 ## 🛠️ Part 1: Data Structures
 
 ### 1. Linear Data Structures
-- [ ] Arrays & Strings 🟩
+- [x] Arrays & Strings 🟩
   - [ ] Static vs. Dynamic Arrays
   - [ ] Two Pointers Technique
   - [ ] Sliding Window (Fixed & Variable)
