@@ -46,10 +46,10 @@ Overall Progress
 
 ### 📚 Theory
 
-- [ ] Big O Notation
+- [x] Big O Notation
 - [x] Space Complexity
 - [x] Array Basics
-- [ ] Traversal
+- [x] Traversal
 - [x] Max & Min
 - [ ] Second Largest
 - [x] Reverse Array
