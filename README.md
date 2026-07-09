@@ -24,9 +24,9 @@
 ```
 Overall Progress
 
-□□□□□□□□□□ 0%
+▪️□□□□□□□□□ 0%
 
-0 / 60 Days Completed
+01 / 60 Days Completed
 ```
 
 ---
@@ -248,7 +248,7 @@ Overall Progress
 
 | Day | Status | Day | Status |
 |------|--------|------|--------|
-| Day 1 | ⬜ | Day 31 | ⬜ |
+| Day 1 | ✅ | Day 31 | ⬜ |
 | Day 2 | ⬜ | Day 32 | ⬜ |
 | Day 3 | ⬜ | Day 33 | ⬜ |
 | Day 4 | ⬜ | Day 34 | ⬜ |
