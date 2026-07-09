@@ -48,11 +48,11 @@ Overall Progress
 
 - [ ] Big O Notation
 - [x] Space Complexity
-- [ ] Array Basics
+- [x] Array Basics
 - [ ] Traversal
-- [ ] Max & Min
+- [x] Max & Min
 - [ ] Second Largest
-- [ ] Reverse Array
+- [x] Reverse Array
 - [ ] Frequency Count
 - [ ] Prefix Sum
 - [ ] Sliding Window
