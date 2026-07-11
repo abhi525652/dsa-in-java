@@ -53,19 +53,19 @@ Overall Progress
 - [x] Max & Min
 - [x] Second Largest
 - [x] Reverse Array
-- [ ] Frequency Count
+- [x] Frequency Count
 - [ ] Prefix Sum
 - [ ] Sliding Window
-- [ ] Two Pointers
+- [x] Two Pointers
 
 ### 💻 Practice
 
 - [ ] Two Sum
 - [ ] Move Zeroes
-- [ ] Rotate Array
-- [ ] Missing Number
+- [x] Rotate Array
+- [x] Missing Number
 - [ ] Best Time to Buy & Sell Stock
-- [ ] Remove Duplicates
+- [x] Remove Duplicates
 
 ✅ Week Progress
 
