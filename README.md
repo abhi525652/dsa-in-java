@@ -70,7 +70,9 @@ Overall Progress
 ✅ Week Progress
 
 ```
-□□□□□□□□□□
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
+Completed: 70%
+Remaining: 30%
 ```
 
 ---
@@ -251,7 +253,7 @@ Overall Progress
 | Day 1 | ✅ | Day 31 | ⬜ |
 | Day 2 | ✅ | Day 32 | ⬜ |
 | Day 3 | ✅ | Day 33 | ⬜ |
-| Day 4 | ⬜ | Day 34 | ⬜ |
+| Day 4 | ✅ | Day 34 | ⬜ |
 | Day 5 | ⬜ | Day 35 | ⬜ |
 | Day 6 | ⬜ | Day 36 | ⬜ |
 | Day 7 | ⬜ | Day 37 | ⬜ |
