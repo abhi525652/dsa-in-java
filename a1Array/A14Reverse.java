@@ -14,7 +14,7 @@ public class A14Reverse {
       right--;
       }
       for(int num:arr){
-        System.out.print(num +" ");
+        System.out.print(num +"  ");
       }
        }
        
