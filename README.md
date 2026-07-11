@@ -250,7 +250,7 @@ Overall Progress
 |------|--------|------|--------|
 | Day 1 | ✅ | Day 31 | ⬜ |
 | Day 2 | ✅ | Day 32 | ⬜ |
-| Day 3 | ⬜ | Day 33 | ⬜ |
+| Day 3 | ✅ | Day 33 | ⬜ |
 | Day 4 | ⬜ | Day 34 | ⬜ |
 | Day 5 | ⬜ | Day 35 | ⬜ |
 | Day 6 | ⬜ | Day 36 | ⬜ |
