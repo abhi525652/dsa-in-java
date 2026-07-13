@@ -254,7 +254,8 @@ Remaining: 30%
 | Day 2 | ✅ | Day 32 | ⬜ |
 | Day 3 | ✅ | Day 33 | ⬜ |
 | Day 4 | ✅ | Day 34 | ⬜ |
-| Day 5 | ⬜ | Day 35 | ⬜ |
+| Day 4 | ✅ | Day 34 | ⬜ |
+| Day 5 | ✅ | Day 35 | ⬜ |
 | Day 6 | ⬜ | Day 36 | ⬜ |
 | Day 7 | ⬜ | Day 37 | ⬜ |
 | Day 8 | ⬜ | Day 38 | ⬜ |
