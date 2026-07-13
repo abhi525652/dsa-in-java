@@ -7,11 +7,11 @@ Here's the order we'll follow:
 ✅ Even/Odd Count
 ✅ Linear Search
 ✅ Positive/Negative/Zero
-🔄 Reverse Array
-🔄 Palindrome Array
-🔄 Missing Number
-🔄 Frequency
-🔄 Second Largest
-🔄 Binary Search
+✅ Reverse Array
+✅ Palindrome Array
+✅ Missing Number
+✅ Frequency
+✅ Second Largest
+✅ Binary Search
 🔄 Two Sum (LeetCode #1)
 🔄 Move Zeroes (LeetCode #283)
