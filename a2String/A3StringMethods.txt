@@ -8,7 +8,7 @@ JAVA sTRING METHODS
 6.equal()           System.out.print("Carpet".equal("Car")) --false
 7.equalslgnoreCase()   
 8.charAt()           charAt()---position of character indix
-9.valueOf()     --converted into string  
+9.valueOf()     --integer converted into string  
 10.replace()
 11.contains()
 12.substring()    --sentence.substring(2,5) from 2 to 4

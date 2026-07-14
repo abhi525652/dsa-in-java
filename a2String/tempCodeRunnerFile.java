@@ -1,1 +1,1 @@
- String result="";
+ System.out.print(Arrays.toString(arr));
