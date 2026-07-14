@@ -7,5 +7,6 @@ public class A2AddTwoString {
     System.out.println("type your lastname = ");
     String lastname=sc.nextLine();
     System.out.println("your full name is = "+firstname+" "+lastname);
+    sc.close();
  }   
 }
