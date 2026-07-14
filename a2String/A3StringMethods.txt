@@ -11,7 +11,7 @@ JAVA sTRING METHODS
 9.valueOf()     --converted into string  
 10.replace()
 11.contains()
-12.substring()
+12.substring()    --sentence.substring(2,5) from 2 to 4
 13.split()
 14.toCharArray()
 15.isEmpty()
@@ -28,3 +28,9 @@ JAVA sTRING METHODS
                 String sentence="I love java, java is a good language";
                 String newSentence = sentence.replace("java","pythone")
         ]
+
+
+        split[
+                String sentence ="I love java, Java is a good language";
+                String word[]=sentence.split(" ")  --if we fil space, all the separation on the base of space
+                if we fill "," all word separation base on comma      ]
