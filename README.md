@@ -81,21 +81,21 @@ Remaining: 30%
 
 ### 📚 Theory
 
-- [ ] String Basics
-- [ ] Character Arrays
+- [x] String Basics
+- [x] Character Arrays
 - [ ] StringBuilder
-- [ ] Reverse String
-- [ ] Palindrome
-- [ ] Anagram
+- [x] Reverse String
+- [x] Palindrome
+- [x] Anagram
 - [ ] HashMap with Strings
 
 ### 💻 Practice
 
-- [ ] Valid Palindrome
-- [ ] Valid Anagram
+- [x] Valid Palindrome
+- [x] Valid Anagram
 - [ ] Longest Common Prefix
-- [ ] Reverse Words
-- [ ] First Unique Character
+- [x] Reverse Words
+- [x] First Unique Character
 
 ✅ Week Progress
 
@@ -256,11 +256,11 @@ Remaining: 30%
 | Day 4 | ✅ | Day 34 | ⬜ |
 | Day 4 | ✅ | Day 34 | ⬜ |
 | Day 5 | ✅ | Day 35 | ⬜ |
-| Day 6 | ⬜ | Day 36 | ⬜ |
-| Day 7 | ⬜ | Day 37 | ⬜ |
-| Day 8 | ⬜ | Day 38 | ⬜ |
-| Day 9 | ⬜ | Day 39 | ⬜ |
-| Day 10 | ⬜ | Day 40 | ⬜ |
+| Day 6 | ✅ | Day 36 | ⬜ |
+| Day 7 | ✅ | Day 37 | ⬜ |
+| Day 8 | ✅ | Day 38 | ⬜ |
+| Day 9 | ✅ | Day 39 | ⬜ |
+| Day 10 | ✅ | Day 40 | ⬜ |
 | Day 11 | ⬜ | Day 41 | ⬜ |
 | Day 12 | ⬜ | Day 42 | ⬜ |
 | Day 13 | ⬜ | Day 43 | ⬜ |
@@ -299,7 +299,7 @@ Remaining: 30%
 
 # 🎉 Milestones
 
-- [ ] 25 Problems Solved 🥉
+- [x] 25 Problems Solved 🥉
 - [ ] 50 Problems Solved 🥈
 - [ ] 100 Problems Solved 🥇
 - [ ] 150 Problems Solved 🚀
