@@ -24,9 +24,9 @@
 ```
 Overall Progress
 
-▪️□□□□□□□□□ 0%
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 16.67%
 
-01 / 60 Days Completed
+10 / 60 Days Completed
 ```
 
 ---
@@ -100,7 +100,7 @@ Remaining: 30%
 ✅ Week Progress
 
 ```
-□□□□□□□□□□
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50.00%
 ```
 
 ---
@@ -300,7 +300,7 @@ Remaining: 30%
 # 🎉 Milestones
 
 - [x] 25 Problems Solved 🥉
-- [ ] 50 Problems Solved 🥈
+- [x] 50 Problems Solved 🥈
 - [ ] 100 Problems Solved 🥇
 - [ ] 150 Problems Solved 🚀
 - [ ] 180+ Problems Solved 👑
