@@ -1,0 +1,466 @@
+# Java Functions & `return` – Quick Revision Notes
+
+## 1. What is a Function?
+
+A **function** is a block of code that performs a specific task.
+
+Instead of writing the same code again and again, we write it once inside a function and call it whenever we need it.
+
+### Syntax
+
+```java
+returnType functionName(parameters)
+{
+    // code
+}
+```
+
+Example:
+
+```java
+static void greet()
+{
+    System.out.println("Good Morning");
+}
+```
+
+---
+
+# 2. How to Call a Function?
+
+A function does **not** run automatically.
+
+We must call it.
+
+```java
+greet();
+```
+
+Flow:
+
+```
+main()
+   │
+   ▼
+greet()
+   │
+Print "Good Morning"
+   │
+   ▼
+Back to main()
+```
+
+---
+
+# 3. Parameters and Arguments
+
+### Parameter
+
+A variable inside the function.
+
+```java
+static void show(int x)
+```
+
+Here, `x` is a **parameter**.
+
+### Argument
+
+The value passed to the function.
+
+```java
+show(10);
+```
+
+Here, `10` is the **argument**.
+
+---
+
+# 4. Local Variable
+
+A variable created inside a function is called a **local variable**.
+
+```java
+static void demo()
+{
+    int x = 5;
+}
+```
+
+`x` exists only inside `demo()`.
+
+After the function ends, `x` is destroyed.
+
+---
+
+# 5. Why Do We Use `return`?
+
+`return` sends a value back to the place where the function was called.
+
+Example:
+
+```java
+static int add(int a, int b)
+{
+    return a + b;
+}
+```
+
+Calling:
+
+```java
+int answer = add(5, 3);
+```
+
+Execution:
+
+```
+add(5,3)
+
+↓
+
+return 8
+
+↓
+
+answer = 8
+```
+
+Now `answer` stores the returned value.
+
+---
+
+# 6. What Happens Without `return`?
+
+```java
+static void addOne(int n)
+{
+    n = n + 1;
+}
+```
+
+```java
+int x = 5;
+
+addOne(x);
+
+System.out.println(x);
+```
+
+Execution:
+
+```
+x = 5
+
+↓
+
+Function gets a copy
+
+n = 5
+
+↓
+
+n = 6
+
+↓
+
+Function ends
+
+↓
+
+x is still 5
+```
+
+Output:
+
+```
+5
+```
+
+Reason:
+
+Only `n` changed.
+
+`x` never changed.
+
+---
+
+# 7. What Happens With `return`?
+
+```java
+static int addOne(int n)
+{
+    n = n + 1;
+    return n;
+}
+```
+
+```java
+int x = 5;
+
+x = addOne(x);
+
+System.out.println(x);
+```
+
+Execution:
+
+```
+x = 5
+
+↓
+
+Function
+
+n = 5
+
+↓
+
+n = 6
+
+↓
+
+return 6
+
+↓
+
+x = 6
+```
+
+Output:
+
+```
+6
+```
+
+---
+
+# 8. Very Important Difference
+
+### Wrong
+
+```java
+addOne(x);
+```
+
+The returned value is ignored.
+
+---
+
+### Correct
+
+```java
+x = addOne(x);
+```
+
+The returned value is stored in `x`.
+
+---
+
+# 9. `void` vs `return`
+
+## `void`
+
+Returns nothing.
+
+```java
+static void greet()
+{
+    System.out.println("Hello");
+}
+```
+
+Use `void` when the function only performs an action.
+
+Examples:
+
+* Print a message
+* Print an array
+* Display a menu
+
+---
+
+## `return`
+
+Returns a value.
+
+```java
+static int square(int n)
+{
+    return n * n;
+}
+```
+
+Use `return` when you want to send the result back.
+
+Examples:
+
+* Addition
+* Multiplication
+* Factorial
+* Prime check
+* Maximum number
+
+---
+
+# 10. Primitive Data Types
+
+```java
+static void change(int x)
+{
+    x = 100;
+}
+```
+
+```java
+int a = 10;
+
+change(a);
+
+System.out.println(a);
+```
+
+Output:
+
+```
+10
+```
+
+Reason:
+
+Java passes a **copy** of primitive values (`int`, `double`, `char`, `boolean`).
+
+Changing the copy does not change the original variable.
+
+---
+
+# 11. Arrays
+
+```java
+static void change(int arr[])
+{
+    arr[0] = 100;
+}
+```
+
+```java
+int arr[] = {10,20,30};
+
+change(arr);
+
+System.out.println(arr[0]);
+```
+
+Output:
+
+```
+100
+```
+
+Reason:
+
+Both variables refer to the **same array**.
+
+Changing the array inside the function changes the original array.
+
+---
+
+# 12. Easy Memory Trick
+
+### Primitive Variable
+
+```
+a = 10
+
+↓
+
+Function
+
+x = 10
+
+↓
+
+x = 100
+
+↓
+
+a = 10
+```
+
+Only the copy changes.
+
+---
+
+### Array
+
+```
+Main arr
+      │
+      ▼
++----+----+----+
+|10  |20  |30  |
++----+----+----+
+      ▲
+      │
+Function arr
+```
+
+Both refer to the same array.
+
+---
+
+# 13. Golden Rules
+
+✅ A function runs only when it is called.
+
+✅ Parameters receive arguments.
+
+✅ Local variables are destroyed after the function ends.
+
+✅ `return` sends a value back.
+
+✅ If you ignore the returned value, it is lost.
+
+✅ `void` means "return nothing."
+
+✅ Primitive values are copied.
+
+✅ Arrays can be modified because both references point to the same array.
+
+---
+
+# 14. Interview Questions
+
+### Q1. Why do we use `return`?
+
+**Answer:**
+We use `return` to send a value back from a function to the caller.
+
+---
+
+### Q2. When should we use `void`?
+
+**Answer:**
+Use `void` when the function performs an action but does not need to return any value.
+
+---
+
+### Q3. What is the difference between a parameter and an argument?
+
+**Answer:**
+
+* Parameter → Variable in the function definition.
+* Argument → Actual value passed during the function call.
+
+---
+
+# Final Trick to Remember
+
+Ask yourself one question:
+
+**"Do I need the result outside the function?"**
+
+* **Yes** → Use `return`.
+* **No** → Use `void`.
+
+This one question is enough to decide in most situations.
