@@ -1,4 +1,3 @@
-
 public class A1Basic {
     public static void main(String[] args) {
       int[][] arr={

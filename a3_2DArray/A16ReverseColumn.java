@@ -1,5 +1,4 @@
 
-
 public class A16ReverseColumn {
      public static void main(String[] args) {
         

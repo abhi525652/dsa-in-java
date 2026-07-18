@@ -1,5 +1,3 @@
-
-
 public class A3RowAndColumn {
  public static void main(String[] args) {
       int[][] arr={
