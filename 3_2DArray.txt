@@ -49,7 +49,7 @@ Goal: Placement-level problems.
 After completing the 30 questions, solve these:
 
 ⭐ LeetCode 48 – Rotate Image
-⭐ LeetCode 54 – Spiral Matrix
+⭐ LeetCode 54 – Spiral Matrix  [x]
 ⭐ LeetCode 73 – Set Matrix Zeroes
 ⭐ LeetCode 74 – Search a 2D Matrix
 ⭐ LeetCode 240 – Search a 2D Matrix II
