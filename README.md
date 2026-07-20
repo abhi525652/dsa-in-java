@@ -1,318 +1,167 @@
-<div align="center">
+# 🚀 Java DSA Progress Tracker
 
-# 🚀 60 Days DSA Roadmap
-
-### 🎯 Goal: Crack TCS • Wipro • Capgemini • Infosys • Accenture • Cognizant
-
-![Days](https://img.shields.io/badge/Duration-60%20Days-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Not%20Started-lightgrey?style=for-the-badge)
-
----
-
-## 💪 "Consistency Beats Talent"
-
-⭐ Solve **4–6 Problems Every Day**
-
-</div>
+> **Language:** Java  
+> **Goal:** Crack TCS, Capgemini, Wipro, Infosys, Accenture & Product-Based Companies  
+> **Repository:** Java DSA Practice
 
 ---
 
 # 📊 Overall Progress
 
-```
-Overall Progress
-
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 16.67%
-
-10 / 60 Days Completed
-```
-
----
-
-# 🎯 Goals
-
-- [ ] Complete 180+ Problems
-- [ ] Master DSA Fundamentals
-- [ ] Improve Problem Solving
-- [ ] Crack Service-Based Company Coding Rounds
+| Topic | Status | Progress |
+|--------|--------|----------|
+| ✅ Arrays | Completed | 17 / 17 |
+| ✅ Strings | Completed | 16 / 30 (Core Completed) |
+| ✅ 2D Arrays | In Progress | 19 / 30 |
+| ⏳ Searching & Sorting | Not Started | 0 / 30 |
+| ⏳ ArrayList | Not Started | 0 / 30 |
+| ⏳ Stack | Not Started | 0 / 30 |
+| ⏳ HashMap | Not Started | 0 / 30 |
+| ⏳ Queue | Not Started | 0 / 30 |
+| ⏳ Linked List | Not Started | 0 / 30 |
+| ⏳ Trees | Not Started | 0 / 30 |
+| ⏳ Graphs | Not Started | 0 / 30 |
 
 ---
 
-# 📅 Month 1 — Foundation
+# 📘 Arrays (17 / 17)
 
-## 📌 Week 1 — Arrays & Time Complexity
-
-### 📚 Theory
-
-- [x] Big O Notation
-- [x] Space Complexity
-- [x] Array Basics
-- [x] Traversal
-- [x] Max & Min
-- [x] Second Largest
-- [x] Reverse Array
-- [x] Frequency Count
-- [ ] Prefix Sum
-- [ ] Sliding Window
-- [x] Two Pointers
-
-### 💻 Practice
-
-- [ ] Two Sum
-- [ ] Move Zeroes
-- [x] Rotate Array
-- [x] Missing Number
-- [ ] Best Time to Buy & Sell Stock
-- [x] Remove Duplicates
-
-✅ Week Progress
-
-```
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
-Completed: 70%
-Remaining: 30%
-```
+- [x] Print all elements of an array
+- [x] Find the last digit of the last element
+- [x] Find the last digit of each element
+- [x] Reverse an array
+- [x] Find the sum of all elements
+- [x] Find the largest element
+- [x] Find the smallest element
+- [x] Find the average of array elements
+- [x] Count even and odd numbers
+- [x] Find the index of a target
+- [x] Count positive, negative and zero values
+- [x] Count occurrences of a target
+- [x] Find the second largest element
+- [x] Check palindrome array
+- [x] Find frequency of an element
+- [x] Reverse array in-place
+- [x] Find the missing number
 
 ---
 
-## 📌 Week 2 — Strings
+# 📗 Strings (16 / 30)
 
-### 📚 Theory
+- [x] Print a string
+- [x] Take full name input
+- [x] Print each character
+- [x] Reverse a string
+- [x] Count uppercase, lowercase and special characters
+- [x] Toggle case
+- [x] Reverse words in a sentence
+- [x] Find the largest word
+- [x] Find the first non-repeating character
+- [x] Check palindrome
+- [x] Check valid palindrome
+- [x] Convert to uppercase/lowercase
+- [x] Count a specific character
+- [x] Count frequency of every character
+- [x] Print duplicate characters
+- [x] Remove duplicate characters
 
-- [x] String Basics
-- [x] Character Arrays
-- [ ] StringBuilder
-- [x] Reverse String
-- [x] Palindrome
-- [x] Anagram
-- [ ] HashMap with Strings
+### Remaining
 
-### 💻 Practice
-
-- [x] Valid Palindrome
-- [x] Valid Anagram
-- [ ] Longest Common Prefix
-- [x] Reverse Words
-- [x] First Unique Character
-
-✅ Week Progress
-
-```
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70.00%
-```
-
----
-
-## 📌 Week 3 — Searching & Sorting
-
-### 🔍 Searching
-
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Lower Bound
-- [ ] Upper Bound
-
-### 📚 Sorting
-
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
-
-### 💻 Practice
-
-- [ ] Solve 20 Questions
-
-✅ Week Progress
-
-```
-□□□□□□□□□□
-```
+- [ ] Replace spaces
+- [ ] Remove spaces
+- [ ] Reverse each word
+- [ ] Compare strings without `equals()`
+- [ ] LC344 Reverse String
+- [ ] LC125 Valid Palindrome
+- [ ] LC58 Length of Last Word
+- [ ] LC28 Find Index of First Occurrence
+- [ ] LC14 Longest Common Prefix
+- [ ] LC392 Is Subsequence
+- [ ] LC387 First Unique Character
+- [ ] LC409 Longest Palindrome
+- [ ] LC541 Reverse String II
+- [ ] LC434 Number of Segments
 
 ---
 
-## 📌 Week 4 — Hashing & Recursion
+# 📙 2D Arrays (19 / 30)
 
-### 📚 Hashing
+- [x] Print all elements
+- [x] Count rows and columns
+- [x] Sum of all elements
+- [x] Largest element
+- [ ] Smallest element
+- [x] Count even and odd
+- [x] Search target
+- [x] Average
+- [x] Print main diagonal
+- [ ] Print secondary diagonal
+- [x] Sum of main diagonal
+- [ ] Sum of secondary diagonal
+- [x] Transpose
+- [x] Check symmetric matrix
+- [x] Add two matrices
+- [ ] Subtract two matrices
+- [x] Multiply two matrices
+- [x] Swap rows
+- [x] Reverse each row
+- [x] Reverse each column
+- [x] Rotate matrix by 90°
+- [x] Spiral traversal
+- [x] Boundary traversal
+- [ ] Row with maximum sum
+- [ ] Column with maximum sum
+- [ ] Search in sorted matrix
+- [ ] Check matrix equality
+- [ ] Zigzag traversal
 
+### LeetCode
+
+- [ ] LC48 Rotate Image
+- [x] LC54 Spiral Matrix
+- [ ] LC73 Set Matrix Zeroes
+- [ ] LC74 Search a 2D Matrix
+- [ ] LC240 Search a 2D Matrix II
+
+---
+
+# 🔍 Searching & Sorting
+
+- [ ] Not Started
+
+---
+
+# 📚 Upcoming Topics
+
+- [ ] ArrayList
+- [ ] Stack
 - [ ] HashMap
-- [ ] HashSet
-- [ ] Frequency Count
-
-### 📚 Recursion
-
-- [ ] Print N Numbers
-- [ ] Factorial
-- [ ] Fibonacci
-- [ ] Sum of N Numbers
-- [ ] Backtracking Basics
-
-### 💻 Practice
-
-- [ ] Solve 20 Questions
-
-✅ Week Progress
-
-```
-□□□□□□□□□□
-```
-
----
-
-# 📅 Month 2 — Interview DSA
-
-## 📌 Week 5 — Linked List
-
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Reverse Linked List
-- [ ] Middle Node
-- [ ] Detect Cycle
-- [ ] Merge Lists
-
-### 💻 Practice
-
-- [ ] Solve 20 Questions
-
----
-
-## 📌 Week 6 — Stack & Queue
-
-### Stack
-
-- [ ] Stack Implementation
-- [ ] Valid Parentheses
-- [ ] Next Greater Element
-- [ ] Min Stack
-
-### Queue
-
 - [ ] Queue
-- [ ] Circular Queue
-- [ ] Queue Using Stack
-- [ ] Stack Using Queue
-
-### 💻 Practice
-
-- [ ] Solve 20 Questions
+- [ ] Linked List
+- [ ] Trees
+- [ ] Graphs
 
 ---
 
-## 📌 Week 7 — Trees
+# 🏆 Milestones
 
-- [ ] Binary Tree
-- [ ] DFS
-- [ ] BFS
-- [ ] Inorder
-- [ ] Preorder
-- [ ] Postorder
-- [ ] Height
-- [ ] Count Nodes
-- [ ] Level Order
-
-### 💻 Practice
-
-- [ ] Solve 20 Questions
+- [x] Master Arrays
+- [x] Master Basic Strings
+- [ ] Master Complete Strings
+- [ ] Master 2D Arrays
+- [ ] Master Searching & Sorting
+- [ ] Solve 100 LeetCode Problems
+- [ ] Complete Java DSA Roadmap
 
 ---
 
-## 📌 Week 8 — BST + Heap + Graph
+# 📈 Repository Statistics
 
-### BST
-
-- [ ] Search
-- [ ] Insert
-- [ ] Delete
-- [ ] Lowest Common Ancestor
-
-### Heap
-
-- [ ] Min Heap
-- [ ] Max Heap
-- [ ] Priority Queue
-
-### Graph
-
-- [ ] Graph Representation
-- [ ] BFS
-- [ ] DFS
-
-### 💻 Practice
-
-- [ ] Solve 15 Questions
+- **Topics Started:** 3
+- **Topics Completed:** 1 (Arrays)
+- **Java Programs Written:** 50+
+- **LeetCode Solved:** 10+
+- **Current Focus:** Searching & Sorting
 
 ---
 
-# 📅 Daily Tracker
-
-| Day | Status | Day | Status |
-|------|--------|------|--------|
-| Day 1 | ✅ | Day 31 | ⬜ |
-| Day 2 | ✅ | Day 32 | ⬜ |
-| Day 3 | ✅ | Day 33 | ⬜ |
-| Day 4 | ✅ | Day 34 | ⬜ |
-| Day 4 | ✅ | Day 34 | ⬜ |
-| Day 5 | ✅ | Day 35 | ⬜ |
-| Day 6 | ✅ | Day 36 | ⬜ |
-| Day 7 | ✅ | Day 37 | ⬜ |
-| Day 8 | ✅ | Day 38 | ⬜ |
-| Day 9 | ✅ | Day 39 | ⬜ |
-| Day 10 | ✅ | Day 40 | ⬜ |
-| Day 11 | ⬜ | Day 41 | ⬜ |
-| Day 12 | ⬜ | Day 42 | ⬜ |
-| Day 13 | ⬜ | Day 43 | ⬜ |
-| Day 14 | ⬜ | Day 44 | ⬜ |
-| Day 15 | ⬜ | Day 45 | ⬜ |
-| Day 16 | ⬜ | Day 46 | ⬜ |
-| Day 17 | ⬜ | Day 47 | ⬜ |
-| Day 18 | ⬜ | Day 48 | ⬜ |
-| Day 19 | ⬜ | Day 49 | ⬜ |
-| Day 20 | ⬜ | Day 50 | ⬜ |
-| Day 21 | ⬜ | Day 51 | ⬜ |
-| Day 22 | ⬜ | Day 52 | ⬜ |
-| Day 23 | ⬜ | Day 53 | ⬜ |
-| Day 24 | ⬜ | Day 54 | ⬜ |
-| Day 25 | ⬜ | Day 55 | ⬜ |
-| Day 26 | ⬜ | Day 56 | ⬜ |
-| Day 27 | ⬜ | Day 57 | ⬜ |
-| Day 28 | ⬜ | Day 58 | ⬜ |
-| Day 29 | ⬜ | Day 59 | ⬜ |
-| Day 30 | ⬜ | Day 60 | ⬜ |
-
----
-
-# 🏆 Target Companies
-
-- [ ] TCS
-- [ ] Wipro
-- [ ] Capgemini
-- [ ] Infosys
-- [ ] Accenture
-- [ ] Cognizant
-- [ ] HCLTech
-- [ ] Tech Mahindra
-
----
-
-# 🎉 Milestones
-
-- [x] 25 Problems Solved 🥉
-- [x] 50 Problems Solved 🥈
-- [ ] 100 Problems Solved 🥇
-- [ ] 150 Problems Solved 🚀
-- [ ] 180+ Problems Solved 👑
-
----
-
-<div align="center">
-
-## 🌟 Never Skip Two Days in a Row
-
-### ⭐ One Problem Every Day is Better Than Zero.
-
-**Happy Coding! 💻🚀**
-
-</div>
