@@ -31,9 +31,9 @@ Progress: **0 / 10**
 
 Progress: **0 / 10**
 
-- [ ] **Q11.** Count the frequency of every character
-- [ ] **Q12.** Print duplicate characters
-- [ ] **Q13.** Remove duplicate characters
+- [x] **Q11.** Count the frequency of every character
+- [x] **Q12.** Print duplicate characters
+- [x] **Q13.** Remove duplicate characters
 - [ ] **Q14.** Find the first non-repeating character
 - [ ] **Q15.** Reverse each word in a sentence
 - [ ] **Q16.** Reverse the words of a sentence
