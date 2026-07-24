@@ -12,16 +12,16 @@
 
 Progress: **0 / 10**
 
-- [ ] **Q1.** Print a string
-- [ ] **Q2.** Take full name input (with spaces)
-- [ ] **Q3.** Print each character of a string
-- [ ] **Q4.** Reverse a string
-- [ ] **Q5.** Count uppercase, lowercase, digits, spaces, and special characters
-- [ ] **Q6.** Toggle the case of every character
-- [ ] **Q7.** Convert a string to uppercase manually (ASCII)
-- [ ] **Q8.** Convert a string to lowercase manually (ASCII)
-- [ ] **Q9.** Count occurrences of a specific character
-- [ ] **Q10.** Check whether a string is a palindrome
+- [x] **Q1.** Print a string
+- [x] **Q2.** Take full name input (with spaces)
+- [x] **Q3.** Print each character of a string
+- [x] **Q4.** Reverse a string
+- [x] **Q5.** Count uppercase, lowercase, digits, spaces, and special characters
+- [x] **Q6.** Toggle the case of every character
+- [x] **Q7.** Convert a string to uppercase manually (ASCII)
+- [x] **Q8.** Convert a string to lowercase manually (ASCII)
+- [x] **Q9.** Count occurrences of a specific character
+- [x] **Q10.** Check whether a string is a palindrome
 
 ---
 
