@@ -36,9 +36,9 @@ Progress: **0 / 10**
 - [x] **Q13.** Remove duplicate characters
 - [ ] **Q14.** Find the first non-repeating character
 - [ ] **Q15.** Reverse each word in a sentence
-- [ ] **Q16.** Reverse the words of a sentence
-- [ ] **Q17.** Find the largest word in a sentence
-- [ ] **Q18.** Replace spaces with `-`
+- [x] **Q16.** Reverse the words of a sentence
+- [x] **Q17.** Find the largest word in a sentence
+- [x] **Q18.** Replace spaces with `-`
 - [ ] **Q19.** Remove all spaces from a string
 - [ ] **Q20.** Check whether two strings are equal without using `equals()`
 
