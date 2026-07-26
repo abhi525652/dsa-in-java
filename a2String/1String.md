@@ -35,7 +35,7 @@ Progress: **0 / 10**
 - [x] **Q12.** Print duplicate characters
 - [x] **Q13.** Remove duplicate characters
 - [ ] **Q14.** Find the first non-repeating character
-- [ ] **Q15.** Reverse each word in a sentence
+- [x] **Q15.** Reverse each word in a sentence
 - [x] **Q16.** Reverse the words of a sentence
 - [x] **Q17.** Find the largest word in a sentence
 - [x] **Q18.** Replace spaces with `-`
