@@ -10,9 +10,9 @@
 
 # 🟢 Level 1 - Array Basics
 
-- [ ] 01. Print all elements of an array
-- [ ] 02. Find the last digit of the last element
-- [ ] 03. Find the last digit of every element
+- [x] 01. Print all elements of an array
+- [x] 02. Find the last digit of the last element
+- [x] 03. Find the last digit of every element
 - [ ] 04. Reverse an array
 - [ ] 05. Find the sum of all elements
 - [ ] 06. Find the largest element
