@@ -13,11 +13,11 @@
 - [x] 01. Print all elements of an array
 - [x] 02. Find the last digit of the last element
 - [x] 03. Find the last digit of every element
-- [ ] 04. Reverse an array
-- [ ] 05. Find the sum of all elements
-- [ ] 06. Find the largest element
-- [ ] 07. Find the smallest element
-- [ ] 08. Find the average of array elements
+- [x] 04. Reverse an array
+- [x] 05. Find the sum of all elements
+- [x] 06. Find the largest element
+- [x] 07. Find the smallest element
+- [x] 08. Find the average of array elements
 - [ ] 09. Count even and odd numbers
 - [ ] 10. Find the index of a target element
 
