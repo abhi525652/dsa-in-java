@@ -18,8 +18,8 @@
 - [x] 06. Find the largest element
 - [x] 07. Find the smallest element
 - [x] 08. Find the average of array elements
-- [ ] 09. Count even and odd numbers
-- [ ] 10. Find the index of a target element
+- [x] 09. Count even and odd numbers
+- [x] 10. Find the index of a target element
 
 ---
 
