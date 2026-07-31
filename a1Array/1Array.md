@@ -25,7 +25,7 @@
 
 # 🟡 Level 2 - Intermediate Problems
 
-- [ ] 11. Count positive, negative, and zero values
+- [x] 11. Count positive, negative, and zero values
 - [ ] 12. Count occurrences of a target element
 - [ ] 13. Find the second largest element
 - [ ] 14. Check whether an array is a palindrome
