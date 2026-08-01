@@ -28,8 +28,8 @@
 - [x] 11. Count positive, negative, and zero values
 - [x] 12. Count occurrences of a target element
 - [x] 13. Find the second largest element
-- [x] 14. Check whether an array is a palindrome
-- [x] 15. Find the frequency of a specific element
+- [ ] 14. Check whether an array is a palindrome
+- [ ] 15. Find the frequency of a specific element
 - [ ] 16. Reverse an array in place
 - [ ] 17. Find the missing number in a sequence
 - [ ] 18. Find the second smallest element
