@@ -30,8 +30,8 @@
 - [x] 13. Find the second largest element
 - [x] 14. Check whether an array is a palindrome
 - [x] 15. Find the frequency of a specific element
-- [ ] 16. Reverse an array in place
-- [ ] 17. Find the missing number in a sequence
+- [x] 16. Reverse an array in place
+- [x] 17. Find the missing number in a sequence
 - [ ] 18. Find the second smallest element
 - [ ] 19. Find duplicate elements
 - [ ] 20. Remove duplicate elements
