@@ -40,7 +40,7 @@
 
 # 🟠 Level 3 - LeetCode Easy
 
-- [x] 21. LeetCode 1920 - Build Array from Permutation
+- [ ] 21. LeetCode 1920 - Build Array from Permutation
 - [ ] 22. LeetCode 1929 - Concatenation of Array
 - [ ] 23. LeetCode 1480 - Running Sum of 1D Array
 - [ ] 24. LeetCode 1672 - Richest Customer Wealth
