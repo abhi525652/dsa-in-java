@@ -61,7 +61,7 @@
 # 📚 Concepts Covered
 
 - [x] Array Traversal
-- [ ] Searching
+- [x] Searching
 - [ ] Frequency Counting
 - [ ] Two Pointers
 - [ ] Array Rotation
