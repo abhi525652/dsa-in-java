@@ -64,7 +64,7 @@
 - [x] Searching
 - [ ] Frequency Counting
 - [ ] Two Pointers
-- [ ] Array Rotation
+- [x] Array Rotation
 - [ ] Merge Arrays
 - [ ] Duplicate Handling
 - [ ] Simulation
