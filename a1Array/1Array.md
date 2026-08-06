@@ -60,7 +60,7 @@
 
 # 📚 Concepts Covered
 
-- [ ] Array Traversal
+- [x] Array Traversal
 - [ ] Searching
 - [ ] Frequency Counting
 - [ ] Two Pointers
