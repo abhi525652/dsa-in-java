@@ -12,7 +12,7 @@
 
 Progress: **0 / 10**
 
-- [ ] **Q1.** Print all elements of a 2D array
+- [x] **Q1.** Print all elements of a 2D array
 - [ ] **Q2.** Find the number of rows and columns
 - [ ] **Q3.** Find the sum of all elements
 - [ ] **Q4.** Find the largest element
