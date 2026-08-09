@@ -9,7 +9,7 @@ class calculation{
        
     }
 }
-public class createclass {
+public class a1createclass {
     public static void main(String[] args) {
         calculation cal=new calculation();
        int result= cal.sum();
