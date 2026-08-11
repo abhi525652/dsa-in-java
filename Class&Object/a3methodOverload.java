@@ -16,5 +16,6 @@ public class a3methodOverload {
         double sum =obj.model(3.56, 6,7);
     
         System.out.println(sum);
+        System.out.println();
     }
 }
