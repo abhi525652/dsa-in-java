@@ -18,7 +18,7 @@ Progress: **0 / 10**
 - [x] **Q4.** Find the largest element
 - [x] **Q5.** Find the smallest element
 - [x] **Q6.** Count even and odd numbers
-- [ ] **Q7.** Search for a target element
+- [x] **Q7.** Search for a target element
 - [ ] **Q8.** Find the average of all elements
 - [ ] **Q9.** Print the row-wise sum
 - [ ] **Q10.** Print the column-wise sum
