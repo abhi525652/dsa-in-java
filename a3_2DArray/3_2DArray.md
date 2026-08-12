@@ -16,8 +16,8 @@ Progress: **0 / 10**
 - [x] **Q2.** Find the number of rows and columns
 - [x] **Q3.** Find the sum of all elements
 - [x] **Q4.** Find the largest element
-- [ ] **Q5.** Find the smallest element
-- [ ] **Q6.** Count even and odd numbers
+- [x] **Q5.** Find the smallest element
+- [x] **Q6.** Count even and odd numbers
 - [ ] **Q7.** Search for a target element
 - [ ] **Q8.** Find the average of all elements
 - [ ] **Q9.** Print the row-wise sum
