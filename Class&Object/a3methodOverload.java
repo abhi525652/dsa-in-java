@@ -14,8 +14,10 @@ public class a3methodOverload {
     public static void main(String[] args) {
         car obj=new car();
         double sum =obj.model(3.56, 6,7);
+        
+        int cartoon =obj.model(3, 6,7);
     
         System.out.println(sum);
-        System.out.println();
+        System.out.println(cartoon);
     }
 }
