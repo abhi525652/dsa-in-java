@@ -15,12 +15,12 @@ class children
 class student extends children
 {
     public student()
-   {super();                                        // all super() keyword are default
+   {super(5);                                        // all super() keyword are default
     System.out.println("In student");
    }
 
  public student(int n)
- {  super(n);                                       //we put here n for the parametric children method
+ {  super();                                       //we put here n in super(n) for the parametric children method
     System.out.println("Student in student");
  }
 }
@@ -30,7 +30,8 @@ class student extends children
 public class Z1Super {
     public static void main(String[] args)
     {
-        student obj=new student(4);
+        student obj=new student();              // used for non parametric method
+        student obj1=new student(4);
 
     }
 }
