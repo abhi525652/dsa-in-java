@@ -63,7 +63,7 @@
 - [x] Array Traversal
 - [x] Searching
 - [x] Frequency Counting
-- [ ] Two Pointers
+- [x] Two Pointers
 - [x] Array Rotation
 - [ ] Merge Arrays
 - [ ] Duplicate Handling
