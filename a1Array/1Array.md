@@ -62,7 +62,7 @@
 
 - [x] Array Traversal
 - [x] Searching
-- [ ] Frequency Counting
+- [x] Frequency Counting
 - [ ] Two Pointers
 - [x] Array Rotation
 - [ ] Merge Arrays
