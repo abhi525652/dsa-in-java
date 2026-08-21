@@ -18,6 +18,6 @@ public class A1 {
     public static void main(String[] args) {
         student s1=new student();  // we create 2 object. they called constuctor twice.
         student s2=new student();
-       
+    
     }
 }
