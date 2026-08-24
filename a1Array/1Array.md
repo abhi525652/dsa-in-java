@@ -65,7 +65,7 @@
 - [x] Frequency Counting
 - [x] Two Pointers
 - [x] Array Rotation
-- [ ] Merge Arrays
+- [X] Merge Arrays
 - [ ] Duplicate Handling
 - [ ] Simulation
 - [ ] Prefix Sum
