@@ -39,7 +39,7 @@ Progress: **0 / 10**
 - [x] **Q16.** Reverse the words of a sentence
 - [x] **Q17.** Find the largest word in a sentence
 - [x] **Q18.** Replace spaces with `-`
-- [ ] **Q19.** Remove all spaces from a string
+- [x] **Q19.** Remove all spaces from a string
 - [ ] **Q20.** Check whether two strings are equal without using `equals()`
 
 ---
