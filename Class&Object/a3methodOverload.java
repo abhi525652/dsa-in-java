@@ -13,11 +13,13 @@ class car{
 public class a3methodOverload {
     public static void main(String[] args) {
         car obj=new car();
-        double sum =obj.model(3.56, 6,7);
         
+        int two=obj.model(5, 9);
+        double sum =obj.model(3.56, 6,7);
         int cartoon =obj.model(3, 6,7);
     
         System.out.println(sum);
         System.out.println(cartoon);
+        System.out.println(two);
     }
 }
