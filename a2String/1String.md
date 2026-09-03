@@ -34,7 +34,7 @@ Progress: **0 / 10**
 - [x] **Q11.** Count the frequency of every character
 - [x] **Q12.** Print duplicate characters
 - [x] **Q13.** Remove duplicate characters
-- [ ] **Q14.** Find the first non-repeating character
+- [x] **Q14.** Find the first non-repeating character
 - [x] **Q15.** Reverse each word in a sentence
 - [x] **Q16.** Reverse the words of a sentence
 - [x] **Q17.** Find the largest word in a sentence
