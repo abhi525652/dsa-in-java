@@ -1,6 +1,6 @@
 
 
-public class A1PrintNno {
+public class A1PrintDecno {
     public static void printDec(int n){
         if(n==1){
             System.out.println(n);
