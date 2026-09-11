@@ -50,7 +50,7 @@
 
 # 🔴 Level 4 - LeetCode Medium
 
-- [ ] 26. LeetCode 26 - Remove Duplicates from Sorted Array
+- [x] 26. LeetCode 26 - Remove Duplicates from Sorted Array
 - [ ] 27. LeetCode 27 - Remove Element
 - [ ] 28. LeetCode 88 - Merge Sorted Array
 - [ ] 29. LeetCode 283 - Move Zeroes
