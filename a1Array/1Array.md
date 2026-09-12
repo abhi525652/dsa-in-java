@@ -42,7 +42,7 @@
 
 - [ ] 21. LeetCode 1920 - Build Array from Permutation
 - [ ] 22. LeetCode 1929 - Concatenation of Array
-- [ ] 23. LeetCode 1480 - Running Sum of 1D Array
+- [x] 23. LeetCode 1480 - Running Sum of 1D Array
 - [ ] 24. LeetCode 1672 - Richest Customer Wealth
 - [ ] 25. LeetCode 1295 - Find Numbers with Even Number of Digits
 
