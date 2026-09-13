@@ -50,9 +50,9 @@ Progress: **0 / 10**
 
 Progress: **0 / 10**
 
-- [ ] **Q21.** Reverse each row
-- [ ] **Q22.** Reverse each column
-- [ ] **Q23.** Rotate a matrix by 90°
+- [x] **Q21.** Reverse each row
+- [x] **Q22.** Reverse each column
+- [] **Q23.** Rotate a matrix by 90°
 - [ ] **Q24.** Print a matrix in spiral order
 - [ ] **Q25.** Print boundary elements
 - [ ] **Q26.** Find the row with the maximum sum
