@@ -41,3 +41,6 @@ System.out.println(s.equals(rev) ? "Palindrome" : "Not Palindrome");
 
                 reverse String
                 String rev = new StringBuilder(s).reverse().toString();
+
+                Check digit
+                Character.isDigit(ch)
