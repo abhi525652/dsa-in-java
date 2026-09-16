@@ -34,3 +34,10 @@ JAVA sTRING METHODS
                 String sentence ="I love java, Java is a good language";
                 String word[]=sentence.split(" ")  --if we fil space, all the separation on the base of space
                 if we fill "," all word separation base on comma      ]
+
+                String rev = new StringBuilder(s).reverse().toString();
+System.out.println(s.equals(rev) ? "Palindrome" : "Not Palindrome");
+
+
+                reverse String
+                String rev = new StringBuilder(s).reverse().toString();
