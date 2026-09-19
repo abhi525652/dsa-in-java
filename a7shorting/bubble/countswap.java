@@ -20,7 +20,8 @@ public class countswap {
     }
 public static void main(String[] args) {
     int[] arr={4, 5, 2, 6, 1, 3};
-    System.out.println(countSwap(arr));
+    System.out.println("Original "+Arrays.toString(arr));
+    System.out.println("the count of swap ="+countSwap(arr));
     System.out.println(Arrays.toString(arr));
 }
 }
