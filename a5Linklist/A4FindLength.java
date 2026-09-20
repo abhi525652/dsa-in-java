@@ -5,9 +5,7 @@ public class A4FindLength {
         this.data=data;
         this.next=null;
     }
-    A4FindLength(){
-        this(0);
-    }
+    
     public static void main(String[] args) {
         A4FindLength obj=new A4FindLength(10);
         A4FindLength obj1=new A4FindLength(20);
