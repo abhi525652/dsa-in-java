@@ -13,8 +13,6 @@ public class A3AddNode {
         A3AddNode obj1=new A3AddNode(10);
         A3AddNode obj2=new A3AddNode(20);
         A3AddNode obj3=new A3AddNode(30);
-        
-        
         System.out.println(obj1.data+" "+obj2.data+" "+obj3.data);
     }
 }
