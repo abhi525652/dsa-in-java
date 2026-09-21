@@ -12,7 +12,7 @@ static class Node{
     }
 }
        static  Node head;
-
+//add the node
     static void addFirst(int data){
        Node Newnode= new Node(data);
        Newnode.next=head;
@@ -21,7 +21,7 @@ static class Node{
     }
     
   static   int count=0;
- 
+ //print list
     static void printList(){
         System.out.println("=========================================");
         Node temp=head;
