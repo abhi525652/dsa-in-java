@@ -19,14 +19,20 @@ static class Node{
        head=Newnode;
 
     }
-
+    
+  static   int count=0;
+ 
     static void printList(){
+        System.out.println("=========================================");
         Node temp=head;
         while (temp!=null) {
             System.out.print(temp.data+"->");
+            count++;
             temp=temp.next;
         }
         System.out.println("null");
+        System.out.println("======================================");
+        System.out.println("The node present = "+ count);
     }
     public static void main(String[] args) {
        addFirst(10);
