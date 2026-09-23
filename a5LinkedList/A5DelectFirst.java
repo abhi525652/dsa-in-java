@@ -1,4 +1,4 @@
-public class A5Delect {
+public class A5DelectFirst {
     static class node{
         int data;
         node next;
