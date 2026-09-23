@@ -22,6 +22,8 @@ public class A4AddIdx {
         }
         temp.next=newNode;
     }
+
+    
     //add num on index
     public static void addAt(int data,int idx){
         node newNode=new node(data);
