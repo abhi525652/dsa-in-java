@@ -60,5 +60,7 @@ public static void main(String[] args) {
     printlist();
     delectlast();
     printlist();
+    delectlast();
+    printlist();
 }
 }
