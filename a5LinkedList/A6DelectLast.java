@@ -15,7 +15,6 @@ static void addlast(int data){
         return;
 
     }
-
     node temp=head;
     while (temp.next!=null) {
         temp=temp.next;

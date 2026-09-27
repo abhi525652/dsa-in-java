@@ -67,8 +67,8 @@
 
 ### Remaining
 
-- [ ] Replace spaces
-- [ ] Remove spaces
+- [x] Replace spaces
+- [x] Remove spaces
 - [ ] Reverse each word
 - [ ] Compare strings without `equals()`
 - [ ] LC344 Reverse String
