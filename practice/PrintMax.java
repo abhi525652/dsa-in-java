@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class PrintMax {
     public static int max(int[] arr){
