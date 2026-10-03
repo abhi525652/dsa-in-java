@@ -11,11 +11,11 @@ public class A15PrintTraingle {
        
     }
     public static void printdownWardTriangle(int row,int col,int n){
-        if(row>n) return;
-        if (col>n-row+1) {
-            System.out.println();
-           printdownWardTriangle(row+1, 1, n);
-           return ;   // return because goes to next Row and start from col 1
+        if(row>n) return;  //all row are printed
+        if (col>n-row+1) { // everything is printed  curr row
+            System.out.println(); //new line is printed in curr row
+           printdownWardTriangle(row+1, 1, n); // all col of given row are done, move to next row
+           return ;   // return because work done
         }
         System.out.print("*"+" ");
         printdownWardTriangle(row, col+1, n);  //complete col
