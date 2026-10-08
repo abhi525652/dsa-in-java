@@ -5,5 +5,6 @@ public class A2LastDigitofArray {
         int lastDigit= arr[arr.length-1];
         int b=lastDigit%10;
         System.out.println(b);
+        System.out.println(b);
     }
 }
