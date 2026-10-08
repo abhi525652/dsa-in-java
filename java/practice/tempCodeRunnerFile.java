@@ -1,0 +1,1 @@
+   System.arraycopy(array1, 0, mergedArray, 0, array1.length);
