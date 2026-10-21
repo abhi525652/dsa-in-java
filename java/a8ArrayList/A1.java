@@ -33,6 +33,8 @@ public class A1 {
     System.out.println(Language.size());  // size
 
     String str=Language.set(1, "banana");   // change the value 
+    System.out.println(str);
+    System.out.println("============================================");
 
     System.out.println(Language);
     System.out.println("============================================");
