@@ -10,7 +10,7 @@ class student{
 
     
     void display(){      //there is method.  there is diff b/t method(need return type) and contructor(no need, same name of class)
-    System.out.println(name); // not used anywhere. this is example of understand
+    System.out.println("Abhishek"); // not used anywhere. this is example of understand
     }
 }
 
