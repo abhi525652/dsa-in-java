@@ -1,5 +1,6 @@
 
 class calculation{
+    int z=10;
     public int sum(){
         int a=10;
         int b=20;
@@ -12,7 +13,7 @@ class calculation{
 public class a1createclass {
     public static void main(String[] args) {
         calculation cal=new calculation();
-       int result= cal.sum();
-       System.out.println(result);
+        System.out.println(cal.sum());
+        System.out.println(cal.z);
     }
 }
